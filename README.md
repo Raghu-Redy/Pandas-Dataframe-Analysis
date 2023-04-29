@@ -1,7 +1,7 @@
 # Pandas-Dataframe-Analysis
 
 
-##Leaderboard for Statements and Reasons
+## Leaderboard for Statements and Reasons
 This project includes two scripts to create leaderboards based on the total number of statements and reasons for a given set of data. The scripts were created using Python and the Pandas library.
 
 **Requirements**
